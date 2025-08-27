@@ -1,0 +1,13 @@
+github link : 
+https://github.com/Shrey-9659/shoolini_AI6
+VS Code download link : https://code.visualstudio.com/download
+Extension to install : 
+Auto rename tag *
+color picker
+ES7+ React/Redux
+git graph
+gitlens
+html css support *
+js jsx snippets *
+live server *
+prettier
